@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Muhammad Junaid
 
-🎯 **Machine Learning Engineer in Progress | DevOps Engineer | Kubestronaut**
+🎯 **Machine Learning Engineer in Progress | Former DevOps Engineer | Kubestronaut**
 
 ---
 
